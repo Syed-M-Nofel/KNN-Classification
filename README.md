@@ -1,5 +1,3 @@
-# README
-
 ## Social Network Ads - KNN Classification
 
 This project demonstrates the implementation of the K-Nearest Neighbors (KNN) classification algorithm using a dataset of social network ads. The aim is to predict whether a user will purchase a product based on their age and estimated salary.
